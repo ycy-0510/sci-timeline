@@ -1,0 +1,1212 @@
+[
+    {
+        "id": "e1",
+        "year": 1543,
+        "scientist": "尼古拉·哥白尼 (N. Copernicus)",
+        "subject": "地科",
+        "title": "日心說",
+        "description": "出版《天體運行論》，主張地球與行星繞太陽運行，挑戰了當時主流的地心說。",
+        "tags": [
+            "天文學",
+            "宇宙",
+            "ECh05"
+        ]
+    },
+    {
+        "id": "e2",
+        "year": 1609,
+        "scientist": "約翰尼斯·克卜勒 (J. Kepler)",
+        "subject": "地科",
+        "title": "行星運動定律",
+        "description": "提出行星繞日運動的三大定律，精確描述太陽系內行星的運動規律。",
+        "tags": [
+            "天文學",
+            "宇宙",
+            "ECh05"
+        ]
+    },
+    {
+        "id": "e3",
+        "year": 1687,
+        "scientist": "艾薩克·牛頓 (Isaac Newton)",
+        "subject": "地科",
+        "title": "潮汐理論",
+        "description": "運用萬有引力解釋月球和太陽引力對地球海水的吸引力，奠定潮汐學的基礎。",
+        "tags": [
+            "海洋",
+            "潮汐",
+            "ECh04"
+        ]
+    },
+    {
+        "id": "e4",
+        "year": 1785,
+        "scientist": "詹姆斯·赫頓 (James Hutton)",
+        "subject": "地科",
+        "title": "均變說與時間深度的概念",
+        "description": "提出地質作用的現今是過去的鑰匙（均變說），地球歷史極為漫長，為地質學奠基。",
+        "tags": [
+            "地質學",
+            "地球歷史",
+            "ECh01"
+        ]
+    },
+    {
+        "id": "e5",
+        "year": 1912,
+        "scientist": "阿爾弗雷德·韋格納 (Alfred Wegener)",
+        "subject": "地科",
+        "title": "大陸漂移說",
+        "description": "提出全球大陸曾經聚合為「盤古大陸」，後分裂漂移，提出四項證據支持此假說。",
+        "tags": [
+            "地質學",
+            "固體地球",
+            "板塊構造",
+            "ECh02"
+        ]
+    },
+    {
+        "id": "e6",
+        "year": 1929,
+        "scientist": "愛德溫·哈伯 (Edwin Hubble)",
+        "subject": "地科",
+        "title": "發現宇宙膨脹",
+        "description": "觀察到星系光譜紅移現象，提出哈伯定律，證實宇宙正在膨脹。",
+        "tags": [
+            "天文學",
+            "宇宙",
+            "ECh05"
+        ]
+    },
+    {
+        "id": "e7",
+        "year": 1935,
+        "scientist": "查爾斯·芮克特 (Charles Richter)",
+        "subject": "地科",
+        "title": "芮氏地震規模 (ML)",
+        "description": "提出地震震級的定量表示法，即芮氏地震規模，用以衡量地震釋放的能量。",
+        "tags": [
+            "地質學",
+            "地震",
+            "ECh02"
+        ]
+    },
+    {
+        "id": "e8",
+        "year": 1950,
+        "scientist": "哈利·海斯 (Harry Hess)",
+        "subject": "地科",
+        "title": "海底擴張學說",
+        "description": "提出新海洋地殼在中洋脊形成，並向兩側擴張移動的假說。",
+        "tags": [
+            "地質學",
+            "固體地球",
+            "板塊構造",
+            "ECh02"
+        ]
+    },
+    {
+        "id": "e9",
+        "year": 1958,
+        "scientist": "詹姆斯·范艾倫 (James Van Allen)",
+        "subject": "地科",
+        "title": "范艾倫輻射帶",
+        "description": "利用探測器發現了地球周圍存在的兩層高能帶電粒子環帶（范艾倫輻射帶）。",
+        "tags": [
+            "太空",
+            "地球磁場",
+            "ECh05"
+        ]
+    },
+    {
+        "id": "e10",
+        "year": 1963,
+        "scientist": "弗雷德里克·維恩 (F. Vine) & 德拉蒙德·馬修斯 (D. Matthews)",
+        "subject": "地科",
+        "title": "古地磁條帶證據",
+        "description": "提出海底地殼的磁性條帶是對海底擴張學說的有力證明。",
+        "tags": [
+            "地質學",
+            "固體地球",
+            "板塊構造",
+            "ECh02"
+        ]
+    },
+    {
+        "id": "e11",
+        "year": 1965,
+        "scientist": "J. Tuzo Wilson",
+        "subject": "地科",
+        "title": "板塊構造論",
+        "description": "統合大陸漂移與海底擴張等理論，正式提出「板塊構造論」，解釋地表所有地質現象。",
+        "tags": [
+            "地質學",
+            "固體地球",
+            "板塊構造",
+            "ECh02"
+        ]
+    },
+    {
+        "id": "e12",
+        "year": 1965,
+        "scientist": "阿諾·彭齊亞斯 (A. Penzias) & 羅伯特·威爾遜 (R. Wilson)",
+        "subject": "地科",
+        "title": "宇宙微波背景輻射 (CMB)",
+        "description": "意外探測到宇宙微波背景輻射，為大霹靂理論提供了直接證據。",
+        "tags": [
+            "天文學",
+            "宇宙",
+            "ECh05"
+        ]
+    },
+    {
+        "id": "e13",
+        "year": 1970,
+        "scientist": "馬里奧·莫里納 (Mario Molina) & 舍伍德·羅蘭 (Sherwood Rowland)",
+        "subject": "地科",
+        "title": "氟氯碳化物破壞臭氧層",
+        "description": "提出氟氯碳化物 (CFCs) 會嚴重破壞地球平流層中的臭氧層。",
+        "tags": [
+            "大氣科學",
+            "環境",
+            "ECh03"
+        ]
+    },
+    {
+        "id": "e14",
+        "year": 1970,
+        "scientist": "大氣科學家群體",
+        "subject": "地科",
+        "title": "氣候變遷模型 (GCM)",
+        "description": "開始發展全球氣候模型 (Global Climate Model)，用於模擬與預測氣候變遷。",
+        "tags": [
+            "大氣科學",
+            "氣候",
+            "ECh06"
+        ]
+    },
+    {
+        "id": "e15",
+        "year": 1979,
+        "scientist": "聯合國環境署",
+        "subject": "地科",
+        "title": "第一次世界氣候會議",
+        "description": "首次在日內瓦召開，討論氣候變遷對人類福祉的潛在影響。",
+        "tags": [
+            "環境",
+            "氣候",
+            "ECh06"
+        ]
+    },
+    {
+        "id": "e16",
+        "year": 1987,
+        "scientist": "國際社群",
+        "subject": "地科",
+        "title": "蒙特婁議定書簽訂",
+        "description": "簽訂管制破壞臭氧層物質的國際條約，成功減緩臭氧層破洞擴大。",
+        "tags": [
+            "大氣科學",
+            "環境",
+            "ECh03"
+        ]
+    },
+    {
+        "id": "e17",
+        "year": 1987,
+        "scientist": "聯合國",
+        "subject": "地科",
+        "title": "永續發展概念提出",
+        "description": "布倫特蘭報告 (Brundtland Report) 正式提出「永續發展」的概念。",
+        "tags": [
+            "環境",
+            "永續發展",
+            "ECh07"
+        ]
+    },
+    {
+        "id": "e18",
+        "year": 1988,
+        "scientist": "聯合國氣候科學家",
+        "subject": "地科",
+        "title": "IPCC 成立",
+        "description": "聯合國政府間氣候變遷專門委員會 (IPCC) 成立，提供氣候變遷的科學評估。",
+        "tags": [
+            "環境",
+            "氣候",
+            "ECh06"
+        ]
+    },
+    {
+        "id": "e19",
+        "year": 2006,
+        "scientist": "國際天文聯合會 (IAU)",
+        "subject": "地科",
+        "title": "行星定義與冥王星降級",
+        "description": "重新定義「行星」標準，導致冥王星被重新歸類為「矮行星」。",
+        "tags": [
+            "天文學",
+            "太陽系",
+            "ECh05"
+        ]
+    },
+    {
+        "id": "e20",
+        "year": 2011,
+        "scientist": "科學家群體",
+        "subject": "地科",
+        "title": "庫頁島油井鑽探紀錄",
+        "description": "俄羅斯庫頁島 Odoptu OP-11 號油井寫下總長度達 12,345 公尺的鑽井新紀錄。",
+        "tags": [
+            "地質學",
+            "固體地球",
+            "ECh02"
+        ]
+    },
+    {
+        "id": "e21",
+        "year": 2017,
+        "scientist": "天文學家群體",
+        "subject": "地科",
+        "title": "雙中子星併合觀測",
+        "description": "首次同時觀測到雙中子星併合產生的重力波和電磁波（可見光），開啟多信使天文學時代。",
+        "tags": [
+            "天文學",
+            "宇宙",
+            "ECh05"
+        ]
+    },
+    {
+        "id": "b1",
+        "year": 1590,
+        "scientist": "詹森 (Z. Janssen)",
+        "subject": "生物",
+        "title": "複式顯微鏡",
+        "description": "荷蘭眼鏡製造商，製作了世界上第一架複式顯微鏡，為細胞觀察奠定基礎。",
+        "tags": [
+            "細胞",
+            "顯微鏡",
+            "BCh01"
+        ]
+    },
+    {
+        "id": "b2",
+        "year": 1665,
+        "scientist": "羅伯特·虎克 (R. Hooke)",
+        "subject": "生物",
+        "title": "發現細胞",
+        "description": "觀察軟木塞切片，發現許多蜂窩狀的小格子，並將其命名為「細胞」(Cell)。",
+        "tags": [
+            "細胞",
+            "細胞壁",
+            "BCh01"
+        ]
+    },
+    {
+        "id": "b3",
+        "year": 1676,
+        "scientist": "雷文霍克 (A. van Leeuwenhoek)",
+        "subject": "生物",
+        "title": "發現微生物",
+        "description": "使用自製顯微鏡觀察雨水、牙垢等，首次描述了細菌和原生動物等活細胞。",
+        "tags": [
+            "細胞",
+            "微生物",
+            "BCh01"
+        ]
+    },
+    {
+        "id": "b4",
+        "year": 1735,
+        "scientist": "林奈 (C. Linnaeus)",
+        "subject": "生物",
+        "title": "二名法",
+        "description": "建立生物分類系統，提出「二名法」來為生物命名（屬名+種小名），被稱為分類學之父。",
+        "tags": [
+            "分類學",
+            "演化",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "b5",
+        "year": 1798,
+        "scientist": "馬爾薩斯 (T. Malthus)",
+        "subject": "生物",
+        "title": "人口論",
+        "description": "提出《人口論》，認為人口增長速度快於糧食增長，導致生存競爭。此觀點啟發了達爾文的天擇說。",
+        "tags": [
+            "演化",
+            "生態",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "b6",
+        "year": 1809,
+        "scientist": "拉馬克 (J. Lamarck)",
+        "subject": "生物",
+        "title": "用進廢退說",
+        "description": "提出最早的演化理論，主張生物的器官「用進廢退」且後天獲得的性狀可以遺傳（獲得性遺傳）。",
+        "tags": [
+            "演化",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "b7",
+        "year": 1830,
+        "scientist": "賴爾 (C. Lyell)",
+        "subject": "生物",
+        "title": "地質學原理",
+        "description": "主張「古今一致論」，認為形塑地球表面的地質作用在過去和現在是一樣的，這顯示地球歷史相當古老，影響了達爾文的演化時間觀。",
+        "tags": [
+            "演化",
+            "地質",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "b8",
+        "year": 1831,
+        "scientist": "布朗 (R. Brown)",
+        "subject": "生物",
+        "title": "發現細胞核",
+        "description": "在觀察蘭花葉表皮細胞時，發現細胞內具有一個明顯的構造，命名為「細胞核」。",
+        "tags": [
+            "細胞",
+            "細胞核",
+            "BCh01"
+        ]
+    },
+    {
+        "id": "b9",
+        "year": 1838,
+        "scientist": "許萊登 (M. Schleiden)",
+        "subject": "生物",
+        "title": "植物細胞學說",
+        "description": "提出所有植物體都是由細胞所構成的。",
+        "tags": [
+            "細胞",
+            "細胞學說",
+            "BCh01"
+        ]
+    },
+    {
+        "id": "b10",
+        "year": 1839,
+        "scientist": "許旺 (T. Schwann)",
+        "subject": "生物",
+        "title": "動物細胞學說",
+        "description": "提出所有動物體都是由細胞所構成的，並認為細胞是生命的結構單位。",
+        "tags": [
+            "細胞",
+            "細胞學說",
+            "BCh01"
+        ]
+    },
+    {
+        "id": "b11",
+        "year": 1855,
+        "scientist": "菲爾紹 (R. Virchow)",
+        "subject": "生物",
+        "title": "細胞學說修正",
+        "description": "提出「所有細胞皆源自於預先存在的細胞」，完善了細胞學說。",
+        "tags": [
+            "細胞",
+            "細胞學說",
+            "BCh01"
+        ]
+    },
+    {
+        "id": "b12",
+        "year": 1858,
+        "scientist": "華萊士 (A. R. Wallace)",
+        "subject": "生物",
+        "title": "天擇說",
+        "description": "在馬來群島研究時獨立構思出與達爾文相似的「天擇」演化理論，並與達爾文共同發表論文。",
+        "tags": [
+            "演化",
+            "天擇",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "b13",
+        "year": 1859,
+        "scientist": "查爾斯·達爾文 (C. Darwin)",
+        "subject": "生物",
+        "title": "物種起源",
+        "description": "出版《物種起源》，詳細闡述以「天擇」為核心的演化論，解釋生物多樣性與適應現象。",
+        "tags": [
+            "演化",
+            "天擇",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "b14",
+        "year": 1865,
+        "scientist": "孟德爾 (G. Mendel)",
+        "subject": "生物",
+        "title": "遺傳法則",
+        "description": "透過豌豆雜交實驗，提出分離律與獨立分配律，被尊稱為「遺傳學之父」。",
+        "tags": [
+            "遺傳",
+            "古典遺傳",
+            "BCh02"
+        ]
+    },
+    {
+        "id": "b15",
+        "year": 1879,
+        "scientist": "佛萊明 (W. Flemming)",
+        "subject": "生物",
+        "title": "有絲分裂",
+        "description": "觀察並描述了細胞的有絲分裂過程，發現染色體的行為。",
+        "tags": [
+            "細胞",
+            "細胞分裂",
+            "BCh01"
+        ]
+    },
+    {
+        "id": "b16",
+        "year": 1883,
+        "scientist": "魏斯曼 (A. Weismann)",
+        "subject": "生物",
+        "title": "種質說",
+        "description": "透過老鼠斷尾實驗否定拉馬克的獲得性遺傳，提出「種質說」，認為只有生殖細胞（種質）的變異才能遺傳給後代。",
+        "tags": [
+            "演化",
+            "遺傳",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "b17",
+        "year": 1891,
+        "scientist": "亨金 (H. Henking)",
+        "subject": "生物",
+        "title": "發現X染色體",
+        "description": "在昆蟲精子形成過程中發現特殊的「X 體」，後來被確認為 X 染色體。",
+        "tags": [
+            "遺傳",
+            "染色體",
+            "BCh02"
+        ]
+    },
+    {
+        "id": "b18",
+        "year": 1902,
+        "scientist": "薩頓 (W. Sutton) & 巴夫來 (T. Boveri)",
+        "subject": "生物",
+        "title": "遺傳的染色體學說",
+        "description": "觀察減數分裂中染色體的行為與孟德爾遺傳因子行為一致，提出遺傳因子（基因）位於染色體上的假說。",
+        "tags": [
+            "遺傳",
+            "染色體",
+            "BCh02"
+        ]
+    },
+    {
+        "id": "b19",
+        "year": 1905,
+        "scientist": "史蒂文斯 (N. Stevens)",
+        "subject": "生物",
+        "title": "發現性染色體",
+        "description": "發現雌雄個體的染色體組成差異（XX 與 XY），確認性別是由染色體決定的。",
+        "tags": [
+            "遺傳",
+            "性染色體",
+            "BCh02"
+        ]
+    },
+    {
+        "id": "b20",
+        "year": 1909,
+        "scientist": "約翰森 (W. Johannsen)",
+        "subject": "生物",
+        "title": "基因術語",
+        "description": "首創「基因」(Gene)、「基因型」(Genotype) 與「表現型」(Phenotype) 等術語。",
+        "tags": [
+            "遺傳",
+            "BCh02"
+        ]
+    },
+    {
+        "id": "b21",
+        "year": 1910,
+        "scientist": "摩根 (T. H. Morgan)",
+        "subject": "生物",
+        "title": "性聯遺傳",
+        "description": "利用果蠅進行實驗，發現白眼性狀的遺傳與性別有關，證實基因位於染色體上。",
+        "tags": [
+            "遺傳",
+            "果蠅",
+            "BCh02"
+        ]
+    },
+    {
+        "id": "b22",
+        "year": 1953,
+        "scientist": "華生 (J. Watson) & 克里克 (F. Crick)",
+        "subject": "生物",
+        "title": "DNA雙螺旋結構",
+        "description": "根據富蘭克林的X光繞射圖譜等資料，建構出 DNA 的雙螺旋模型，揭示了遺傳物質的結構。",
+        "tags": [
+            "遺傳",
+            "DNA",
+            "分子生物學",
+            "BCh02"
+        ]
+    },
+    {
+        "id": "b23",
+        "year": 1969,
+        "scientist": "懷塔克 (R. Whittaker)",
+        "subject": "生物",
+        "title": "五界說",
+        "description": "依據細胞構造及營養方式，將生物分為原核生物、原生生物、菌物、植物和動物五界。",
+        "tags": [
+            "分類學",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "b24",
+        "year": 1977,
+        "scientist": "伍斯 (C. Woese)",
+        "subject": "生物",
+        "title": "三域說",
+        "description": "根據核糖體 RNA (rRNA) 的序列分析，發現古細菌與真細菌的巨大差異，提出細菌、古菌、真核生物三域系統。",
+        "tags": [
+            "分類學",
+            "演化",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "c2",
+        "year": 1661,
+        "scientist": "羅伯特·波以耳 (Robert Boyle)",
+        "subject": "化學",
+        "title": "《懷疑的化學家》與元素觀",
+        "description": "出版《懷疑的化學家》，主張以實驗區分元素與化合物，奠定近代化學以實驗為核心的研究傳統。",
+        "tags": [
+            "元素觀",
+            "實驗方法",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c3",
+        "year": 1774,
+        "scientist": "約瑟夫·普利斯特里 (Joseph Priestley)",
+        "subject": "化學",
+        "title": "氧氣的發現",
+        "description": "加熱氧化汞等物質，得到能強烈助燃的新氣體，後來被確認為氧氣，對燃燒理論帶來關鍵轉折。",
+        "tags": [
+            "氧氣",
+            "氣體研究",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c4",
+        "year": 1789,
+        "scientist": "安東尼·拉瓦節 (Antoine-Laurent de Lavoisier)",
+        "subject": "化學",
+        "title": "質量守恆與現代化學奠基",
+        "description": "透過精密稱量燃燒與分解實驗，提出質量守恆定律，並在《化學基本論》中系統整理元素與化合物概念。",
+        "tags": [
+            "質量守恆",
+            "燃燒理論",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c5",
+        "year": 1799,
+        "scientist": "約瑟夫·普魯斯特 (Joseph Louis Proust)",
+        "subject": "化學",
+        "title": "定比定律",
+        "description": "比較多種同一化合物樣品，發現其中各元素的質量比固定不變，提出定比定律，支持粒子觀點。",
+        "tags": [
+            "定比定律",
+            "化合物組成",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c6",
+        "year": 1803,
+        "scientist": "約翰·道耳頓 (John Dalton)",
+        "subject": "化學",
+        "title": "道耳頓原子說",
+        "description": "用原子假說解釋定比與倍比關係，認為元素由不可再分原子組成，不同元素原子具有不同質量。",
+        "tags": [
+            "原子說",
+            "化學計量",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c7",
+        "year": 1808,
+        "scientist": "約瑟夫·蓋-呂薩克 (Joseph Louis Gay-Lussac)",
+        "subject": "化學",
+        "title": "氣體反應體積關係",
+        "description": "研究氣體反應時的體積，發現在相同溫度與壓力下，反應與生成氣體的體積比為簡單整數比。",
+        "tags": [
+            "氣體定律",
+            "體積關係",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c8",
+        "year": 1811,
+        "scientist": "亞佛加厥 (Amedeo Avogadro)",
+        "subject": "化學",
+        "title": "分子假說與莫耳概念基礎",
+        "description": "提出在相同溫度與壓力下，相同體積的氣體含有相同數目的粒子，為莫耳與阿伏加德羅常數奠基。",
+        "tags": [
+            "分子假說",
+            "莫耳",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c9",
+        "year": 1818,
+        "scientist": "永斯·雅各布·貝采里烏斯 (Jöns Jakob Berzelius)",
+        "subject": "化學",
+        "title": "化學符號與原子量",
+        "description": "建立以拉丁文首字母表示元素的符號系統，並系統測定多數元素的相對原子量。",
+        "tags": [
+            "元素符號",
+            "原子量",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c10",
+        "year": 1869,
+        "scientist": "德米特里·門得列夫 (Dmitri Ivanovich Mendeleev)",
+        "subject": "化學",
+        "title": "元素週期表的提出",
+        "description": "依原子量與性質排列表格，留下空格預言未知元素，形成早期元素週期表架構。",
+        "tags": [
+            "元素週期表",
+            "預測新元素",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c11",
+        "year": 2015,
+        "scientist": "IUPAC 國際純粹與應用化學聯合會",
+        "subject": "化學",
+        "title": "超重元素 Nh, Mc, Ts, Og 命名",
+        "description": "IUPAC 正式命名第 113、115、117、118 號元素為 Nihonium、Moscovium、Tennessine 與 Oganesson，週期表完成到第 7 週期。",
+        "tags": [
+            "超重元素",
+            "IUPAC",
+            "CCh01"
+        ]
+    },
+    {
+        "id": "c12",
+        "year": 1815,
+        "scientist": "永斯·雅各布·貝采里烏斯 (Jöns Jakob Berzelius)",
+        "subject": "化學",
+        "title": "以天體與神話命名元素",
+        "description": "為小行星 Ceres 發現後命名元素鈰 (Ce)，又以希臘月亮女神命名硒 (Se)，並命名釷 (Th) 等元素，反映當時命名與文化的連結。",
+        "tags": [
+            "元素命名",
+            "文化與科學",
+            "CCh02"
+        ]
+    },
+    {
+        "id": "c13",
+        "year": 1869,
+        "scientist": "約翰·廷德耳 (John Tyndall)",
+        "subject": "化學",
+        "title": "丁達耳效應與膠體光散射",
+        "description": "研究光在膠體中的散射現象，說明粒子尺寸與光路可見性的關係，後來稱為丁達耳效應。",
+        "tags": [
+            "膠體",
+            "光散射",
+            "CCh03"
+        ]
+    },
+    {
+        "id": "c14",
+        "year": 1887,
+        "scientist": "斯凡特·阿瑞尼烏斯 (Svante August Arrhenius)",
+        "subject": "化學",
+        "title": "電解質解離與阿瑞尼烏斯酸鹼",
+        "description": "提出電解質在水中會解離成帶電離子，並定義酸為產生 H⁺、鹼為產生 OH⁻ 的物質。",
+        "tags": [
+            "電解質",
+            "酸鹼理論",
+            "CCh03"
+        ]
+    },
+    {
+        "id": "c15",
+        "year": 1909,
+        "scientist": "索倫·彼得·勞里茨·索倫森 (Søren P. L. Sørensen)",
+        "subject": "化學",
+        "title": "pH 概念的提出",
+        "description": "為方便表示氫離子濃度，引入以負對數定義的 pH 值，使酸鹼度能以 0–14 的刻度直觀比較。",
+        "tags": [
+            "pH",
+            "溶液酸鹼度",
+            "CCh03"
+        ]
+    },
+    {
+        "id": "c16",
+        "year": 1897,
+        "scientist": "費利克斯·霍夫曼 (Felix Hoffmann)",
+        "subject": "化學",
+        "title": "阿斯匹靈的合成與止痛藥革命",
+        "description": "在德國拜耳藥廠合成較溫和的乙醯水楊酸，商品名 Aspirin，成為廣泛使用的解熱鎮痛與抗血栓藥物。",
+        "tags": [
+            "藥物化學",
+            "乙醯水楊酸",
+            "CCh04"
+        ]
+    },
+    {
+        "id": "c17",
+        "year": 1959,
+        "scientist": "理查·P·費曼 (Richard Phillips Feynman)",
+        "subject": "化學",
+        "title": "奈米科技構想：在更小的空間裡",
+        "description": "在演講中提出從原子尺度操控物質的想法，被視為奈米科技發展的重要思想起點之一。",
+        "tags": [
+            "奈米科技",
+            "科學演講",
+            "CCh04"
+        ]
+    },
+    {
+        "id": "c18",
+        "year": 1991,
+        "scientist": "飯島澄男 (Sumio Iijima)",
+        "subject": "化學",
+        "title": "碳奈米管的發現",
+        "description": "利用電子顯微鏡觀察到中空的捲曲石墨片結構，命名為碳奈米管，開啟奈米材料廣泛研究。",
+        "tags": [
+            "碳奈米管",
+            "奈米材料",
+            "CCh04"
+        ]
+    },
+    {
+        "id": "c19",
+        "year": 2020,
+        "scientist": "多個研究團隊與藥廠",
+        "subject": "化學",
+        "title": "COVID-19 mRNA 疫苗的研發",
+        "description": "針對 SARS-CoV-2 病毒開發包覆於脂質奈米粒子中的 mRNA 疫苗，如 Moderna mRNA-1273，利用細胞自行表達抗原以誘發免疫。",
+        "tags": [
+            "mRNA疫苗",
+            "COVID-19",
+            "CCh04"
+        ]
+    },
+    {
+        "id": "p1",
+        "year": -350,
+        "scientist": "亞里斯多德 (Aristotle)",
+        "subject": "物理",
+        "title": "自然運動與受迫運動",
+        "description": "提出物體運動分為「自然運動」（回歸自然處所）與「受迫運動」（受外力推動），雖然後來被修正，但統治了學術界近兩千年。",
+        "tags": [
+            "運動學",
+            "科學史",
+            "PCh02"
+        ]
+    },
+    {
+        "id": "p2",
+        "year": 1543,
+        "scientist": "尼古拉·哥白尼 (N. Copernicus)",
+        "subject": "物理",
+        "title": "日心說",
+        "description": "出版《天體運行論》，主張地球與行星繞太陽運行，挑戰了當時主流的地心說。",
+        "tags": [
+            "天文學",
+            "科學革命",
+            "PCh01"
+        ]
+    },
+    {
+        "id": "p3",
+        "year": 1609,
+        "scientist": "約翰尼斯·克卜勒 (J. Kepler)",
+        "subject": "物理",
+        "title": "行星運動定律",
+        "description": "整理第谷的觀測數據，提出行星運動三大定律，描述行星繞日的橢圓軌道規律。",
+        "tags": [
+            "天文學",
+            "運動學",
+            "PCh02"
+        ]
+    },
+    {
+        "id": "p4",
+        "year": 1621,
+        "scientist": "威理博·司乃耳 (W. Snellius)",
+        "subject": "物理",
+        "title": "折射定律 (司乃耳定律)",
+        "description": "發現光在不同介質間傳播時，入射角與折射角的正弦值成定值關係。",
+        "tags": [
+            "光學",
+            "波動",
+            "PCh04"
+        ]
+    },
+    {
+        "id": "p5",
+        "year": 1638,
+        "scientist": "伽利略·伽利萊 (G. Galilei)",
+        "subject": "物理",
+        "title": "慣性與落體運動",
+        "description": "利用斜面實驗推翻亞里斯多德的運動學說，提出慣性概念與自由落體距離與時間平方成正比的關係。",
+        "tags": [
+            "運動學",
+            "科學方法",
+            "PCh02"
+        ]
+    },
+    {
+        "id": "p6",
+        "year": 1676,
+        "scientist": "奧勒·羅默 (Ole Rømer)",
+        "subject": "物理",
+        "title": "光速測量",
+        "description": "利用木星衛星（愛奧衛）的星食時間變化，首次成功證實光速有限並進行測量。",
+        "tags": [
+            "光學",
+            "天文學",
+            "PCh01"
+        ]
+    },
+    {
+        "id": "p7",
+        "year": 1678,
+        "scientist": "克里斯蒂安·惠更斯 (C. Huygens)",
+        "subject": "物理",
+        "title": "光的波動說",
+        "description": "提出惠更斯原理，主張光是一種波動，能解釋反射與折射現象，與牛頓的微粒說對立。",
+        "tags": [
+            "光學",
+            "波動",
+            "PCh04"
+        ]
+    },
+    {
+        "id": "p8",
+        "year": 1687,
+        "scientist": "艾薩克·牛頓 (Isaac Newton)",
+        "subject": "物理",
+        "title": "自然哲學的數學原理",
+        "description": "發表三大運動定律與萬有引力定律，建立古典力學體系，並解釋了天體運行與潮汐現象。",
+        "tags": [
+            "力學",
+            "重力",
+            "PCh01",
+            "PCh02"
+        ]
+    },
+    {
+        "id": "p9",
+        "year": 1798,
+        "scientist": "班傑明·湯普森 (Count Rumford)",
+        "subject": "物理",
+        "title": "熱功互換 (摩擦生熱)",
+        "description": "在監督大砲鑽孔時觀察到摩擦產生無限熱量，推翻「熱質說」，主張熱是物質的運動。",
+        "tags": [
+            "熱學",
+            "能量",
+            "PCh01"
+        ]
+    },
+    {
+        "id": "p10",
+        "year": 1801,
+        "scientist": "湯瑪士·楊 (Thomas Young)",
+        "subject": "物理",
+        "title": "雙狹縫干涉實驗",
+        "description": "觀測到光的干涉條紋，證實光具有波動性，支持了波動說。",
+        "tags": [
+            "光學",
+            "波動",
+            "PCh04"
+        ]
+    },
+    {
+        "id": "p11",
+        "year": 1803,
+        "scientist": "約翰·道耳頓 (John Dalton)",
+        "subject": "化學",
+        "title": "原子說",
+        "description": "提出物質由不可分割的原子組成，不同元素的原子質量不同，定比定律與倍比定律的基礎。",
+        "tags": [
+            "原子結構",
+            "物質組成",
+            "PCh03"
+        ]
+    },
+    {
+        "id": "p12",
+        "year": 1820,
+        "scientist": "漢斯·厄斯特 (H. C. Ørsted)",
+        "subject": "物理",
+        "title": "電流磁效應",
+        "description": "意外發現通電導線會使磁針偏轉，首度證實電與磁之間有交互作用。",
+        "tags": [
+            "電磁學",
+            "PCh04"
+        ]
+    },
+    {
+        "id": "p13",
+        "year": 1820,
+        "scientist": "安德烈-馬里·安培 (A. M. Ampère)",
+        "subject": "物理",
+        "title": "安培定律",
+        "description": "在厄斯特發現後，提出描述電流產生磁場方向的右手定則，奠定電動力學基礎。",
+        "tags": [
+            "電磁學",
+            "PCh04"
+        ]
+    },
+    {
+        "id": "p14",
+        "year": 1831,
+        "scientist": "麥可·法拉第 (Michael Faraday)",
+        "subject": "物理",
+        "title": "電磁感應",
+        "description": "發現磁場變化可產生電流（感應電流），提出法拉第感應定律，是發電機的原理基礎。",
+        "tags": [
+            "電磁學",
+            "應用物理",
+            "PCh04"
+        ]
+    },
+    {
+        "id": "p15",
+        "year": 1845,
+        "scientist": "詹姆斯·焦耳 (James Joule)",
+        "subject": "物理",
+        "title": "熱功當量",
+        "description": "透過實驗證實熱是一種能量形式，並測定熱與機械功之間的轉換比例，確立能量守恆觀念。",
+        "tags": [
+            "熱學",
+            "能量",
+            "PCh05"
+        ]
+    },
+    {
+        "id": "p16",
+        "year": 1848,
+        "scientist": "克耳文勳爵 (Lord Kelvin)",
+        "subject": "物理",
+        "title": "絕對溫標",
+        "description": "提出熱力學溫標（絕對溫標），定義絕對零度（-273.15°C）為理論最低溫度。",
+        "tags": [
+            "熱學",
+            "單位",
+            "PCh05"
+        ]
+    },
+    {
+        "id": "p17",
+        "year": 1864,
+        "scientist": "詹姆斯·馬克士威 (J. C. Maxwell)",
+        "subject": "物理",
+        "title": "電磁理論統一",
+        "description": "提出馬克士威方程式組，統一電場與磁場理論，並預言光是一種電磁波。",
+        "tags": [
+            "電磁學",
+            "古典物理",
+            "PCh04"
+        ]
+    },
+    {
+        "id": "p18",
+        "year": 1887,
+        "scientist": "海因里希·赫茲 (Heinrich Hertz)",
+        "subject": "物理",
+        "title": "證實電磁波",
+        "description": "透過實驗成功製造並接收電磁波，證實了馬克士威的理論預測。",
+        "tags": [
+            "電磁學",
+            "PCh04"
+        ]
+    },
+    {
+        "id": "p19",
+        "year": 1897,
+        "scientist": "J.J. 湯姆森 (J.J. Thomson)",
+        "subject": "物理",
+        "title": "發現電子",
+        "description": "研究陰極射線管發現電子，提出原子內部含有帶負電粒子的「葡萄乾布丁模型」。",
+        "tags": [
+            "原子結構",
+            "粒子物理",
+            "PCh03"
+        ]
+    },
+    {
+        "id": "p20",
+        "year": 1900,
+        "scientist": "馬克斯·普朗克 (Max Planck)",
+        "subject": "物理",
+        "title": "量子論誕生",
+        "description": "為解釋黑體輻射光譜，提出能量不連續（量子化）假設 E=nhf，開啟量子力學時代。",
+        "tags": [
+            "量子力學",
+            "熱輻射",
+            "PCh06"
+        ]
+    },
+    {
+        "id": "p21",
+        "year": 1902,
+        "scientist": "菲利普·雷納 (Philipp von Lenard)",
+        "subject": "物理",
+        "title": "光電效應特性",
+        "description": "實驗發現光電效應中，光電子的能量與光強度無關，而與頻率有關，這與古典波動說矛盾。",
+        "tags": [
+            "量子力學",
+            "光電效應",
+            "PCh06"
+        ]
+    },
+    {
+        "id": "p22",
+        "year": 1905,
+        "scientist": "阿爾伯特·愛因斯坦 (Albert Einstein)",
+        "subject": "物理",
+        "title": "光量子論與相對論",
+        "description": "提出光子概念解釋光電效應；同年發表狹義相對論及質能互換公式 E=mc²。",
+        "tags": [
+            "量子力學",
+            "相對論",
+            "PCh01",
+            "PCh06"
+        ]
+    },
+    {
+        "id": "p23",
+        "year": 1911,
+        "scientist": "歐尼斯特·拉瑟福 (E. Rutherford)",
+        "subject": "物理",
+        "title": "發現原子核",
+        "description": "利用α粒子散射實驗，發現原子具有帶正電且質量集中的原子核，提出行星式原子模型。",
+        "tags": [
+            "原子結構",
+            "粒子物理",
+            "PCh03"
+        ]
+    },
+    {
+        "id": "p24",
+        "year": 1913,
+        "scientist": "尼爾斯·波耳 (Niels Bohr)",
+        "subject": "物理",
+        "title": "氫原子模型",
+        "description": "結合拉瑟福模型與普朗克量子概念，提出電子能階理論，成功解釋氫原子光譜。",
+        "tags": [
+            "原子結構",
+            "量子力學",
+            "PCh06"
+        ]
+    },
+    {
+        "id": "p25",
+        "year": 1924,
+        "scientist": "路易·德布羅意 (Louis de Broglie)",
+        "subject": "物理",
+        "title": "物質波",
+        "description": "提出物質波假說，認為電子等實體粒子也具有波動性（波粒二象性）。",
+        "tags": [
+            "量子力學",
+            "波動",
+            "PCh06"
+        ]
+    },
+    {
+        "id": "p26",
+        "year": 1927,
+        "scientist": "戴維森 & 革末 (Davisson & Germer)",
+        "subject": "物理",
+        "title": "電子繞射實驗",
+        "description": "觀察到電子通過晶體產生繞射現象，實驗證實了德布羅意的物質波假說。",
+        "tags": [
+            "量子力學",
+            "實驗驗證",
+            "PCh06"
+        ]
+    },
+    {
+        "id": "p27",
+        "year": 1932,
+        "scientist": "詹姆斯·查兌克 (James Chadwick)",
+        "subject": "物理",
+        "title": "發現中子",
+        "description": "發現原子核中不帶電的粒子——中子，補足了原子核結構的最後一塊拼圖。",
+        "tags": [
+            "原子結構",
+            "粒子物理",
+            "PCh03"
+        ]
+    },
+    {
+        "id": "p28",
+        "year": 1935,
+        "scientist": "湯川秀樹 (Hideki Yukawa)",
+        "subject": "物理",
+        "title": "強核力理論",
+        "description": "提出介子理論解釋原子核內質子與中子間的強交互作用。",
+        "tags": [
+            "基本交互作用",
+            "粒子物理",
+            "PCh03"
+        ]
+    },
+    {
+        "id": "p29",
+        "year": 1956,
+        "scientist": "柯萬 & 雷恩斯 (Cowan & Reines)",
+        "subject": "物理",
+        "title": "證實微中子",
+        "description": "實驗捕捉到微中子，證實了包立為挽救β衰變能量守恆而提出的假說。",
+        "tags": [
+            "粒子物理",
+            "能量守恆",
+            "PCh03"
+        ]
+    },
+    {
+        "id": "p30",
+        "year": 1964,
+        "scientist": "蓋爾曼 (Murray Gell-Mann)",
+        "subject": "物理",
+        "title": "夸克模型",
+        "description": "提出夸克理論（Quarks），認為質子與中子是由更基本的夸克粒子組成。",
+        "tags": [
+            "粒子物理",
+            "物質組成",
+            "PCh03"
+        ]
+    }
+]
