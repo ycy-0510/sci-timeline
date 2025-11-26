@@ -269,16 +269,6 @@ const ScienceTimeline = () => {
 
                 {/* Main Content */}
                 <main className="flex-1 px-4 py-8 md:px-8 md:py-12 bg-slate-50 overflow-x-hidden">
-                    {/* 提示訊息 */}
-                    {isGeoscienceContext && filteredData.length > 0 && (
-                        <div className="mb-8 p-4 bg-amber-50 border-l-4 border-amber-500 text-amber-800 rounded-lg text-sm flex items-start gap-2 shadow-sm">
-                            <Monitor className="w-5 h-5 flex-shrink-0 mt-0.5" />
-                            <p>
-                                <strong>資料來源說明：</strong>
-                                此列表已精確篩選並標註您提供的地科課本章節 (Ch01:地球歷史, Ch02:固體地球, Ch03:大氣, Ch04:海洋, Ch05:太空, Ch06:氣候, Ch07:永續)。
-                            </p>
-                        </div>
-                    )}
 
                     {filteredData.length === 0 ? (
                         <div className="text-center py-20 bg-white rounded-xl shadow-sm border border-dashed border-slate-300">
@@ -336,7 +326,7 @@ const ScienceTimeline = () => {
                                                         <div className="flex flex-wrap gap-1 justify-end">
                                                             {item.tags.map(tag => (
                                                                 <span key={tag} className={`text-xs px-2 py-0.5 rounded-full whitespace-nowrap ${selectedTags.has(tag) ? 'bg-indigo-100 text-indigo-800 font-medium' : 'text-slate-500 bg-slate-100'}`}>
-                                                                    {tag.startsWith('Ch') || tag.startsWith('ECh') || tag.startsWith('BCh') ? `📘 ${tag}` : `#${tag}`}
+                                                                    {tag.startsWith('Ch') || tag.startsWith('PCh') || tag.startsWith('CCh') || tag.startsWith('ECh') || tag.startsWith('BCh') ? `📘 ${tag}` : `#${tag}`}
                                                                 </span>
                                                             ))}
                                                         </div>
@@ -370,7 +360,7 @@ const ScienceTimeline = () => {
 
             <footer className="bg-white border-t border-slate-200 text-slate-400 py-6 text-center text-sm">
                 <p>©2025 高中自然科學史互動時間軸</p>
-                <p>Made with ❤️ by <a href="https://github.com/ycy-0510" target="_blank" rel="noopener noreferrer">YCY</a>With Anigravity</p>
+                <p>Made with ❤️ by <a href="https://github.com/ycy-0510" target="_blank" rel="noopener noreferrer">YCY</a> with Anigravity</p>
                 <p>AI generated data may not be accurate, please double check. If you find any error, please report it to <a href="https://github.com/ycy-0510/sci-timeline/issues" target="_blank" rel="noopener noreferrer">GitHub</a></p>
             </footer>
         </div>
