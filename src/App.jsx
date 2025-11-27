@@ -359,8 +359,7 @@ const ScienceTimeline = () => {
             </div>
 
             <footer className="bg-white border-t border-slate-200 text-slate-400 py-6 text-center text-sm">
-                <p>©2025 高中自然科學史互動時間軸</p>
-                <p>Made with ❤️ by <a href="https://github.com/ycy-0510" target="_blank" rel="noopener noreferrer">YCY</a> with Anigravity</p>
+                <p>Made with ❤️ by <a href="https://github.com/ycy-0510" target="_blank" rel="noopener noreferrer">YCY</p>
                 <p>AI generated data may not be accurate, please double check. If you find any error, please report it to <a href="https://github.com/ycy-0510/sci-timeline/issues" target="_blank" rel="noopener noreferrer">GitHub</a></p>
             </footer>
         </div>
