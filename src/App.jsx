@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { BookOpen, Atom, FlaskConical, Dna, Globe, Filter, Calendar, Tag, Search, Monitor, ArrowUp, ArrowDown, X, User, Menu } from 'lucide-react';
+import { BookOpen, Atom, FlaskConical, Dna, Globe, Filter, Calendar, Tag, Search, Monitor, ArrowUp, ArrowDown, X, User, Menu, AlertCircle } from 'lucide-react';
 import rawData from './data.json';
 
 const ScienceTimeline = () => {
@@ -90,6 +90,26 @@ const ScienceTimeline = () => {
 
     // 檢查是否所有選定的「地科」項目都有標記 ChN
     const isGeoscienceContext = selectedSubject === '地科';
+
+    // 處理錯誤回報
+    const handleReportError = (title, eventId) => {
+        const url = `https://forms.ycydev.org/s/cmihkiqwo0000s801q9sva42w?title=${encodeURIComponent(title)}&eventId=${encodeURIComponent(eventId)}`;
+
+        // 判斷是否為電腦版 (簡單判斷視窗寬度，或依賴使用者代理，這裡使用視窗寬度作為簡單依據，或者直接彈出)
+        // 題目要求：如果是電腦請用彈出新分頁，隱藏工具欄、網址模式、小視窗
+        // 我們可以嘗試使用 window.open 的參數來控制
+
+        const width = 600;
+        const height = 800;
+        const left = (window.screen.width - width) / 2;
+        const top = (window.screen.height - height) / 2;
+
+        window.open(
+            url,
+            'ReportError',
+            `width=${width},height=${height},top=${top},left=${left},menubar=no,toolbar=no,location=no,status=no,resizable=yes,scrollbars=yes`
+        );
+    };
 
     return (
         <div className="min-h-screen bg-slate-50 font-sans text-slate-800 flex flex-col">
@@ -339,6 +359,17 @@ const ScienceTimeline = () => {
                                                     </h3>
 
                                                     <p className="text-slate-600 leading-relaxed text-sm">{item.description}</p>
+
+                                                    <div className="mt-4 flex justify-end">
+                                                        <button
+                                                            onClick={() => handleReportError(item.title, item.id)}
+                                                            className="flex items-center gap-1 text-xs text-slate-400 hover:text-rose-500 transition-colors"
+                                                            title="回報資料錯誤"
+                                                        >
+                                                            <AlertCircle className="w-3 h-3" />
+                                                            回報錯誤
+                                                        </button>
+                                                    </div>
 
                                                     {/* Mobile connector line */}
                                                     <div className="md:hidden absolute top-6 -left-8 w-8 h-px bg-slate-200"></div>
