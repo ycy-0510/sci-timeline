@@ -292,7 +292,7 @@
     {
         "id": "b2",
         "year": 1665,
-        "scientist": "羅伯特·虎克 (R. Hooke)",
+        "scientist": "虎克 (R. Hooke)",
         "subject": "生物",
         "title": "發現細胞",
         "description": "觀察軟木塞切片，發現許多蜂窩狀的小格子，並將其命名為「細胞」(Cell)。",
@@ -320,8 +320,8 @@
         "year": 1735,
         "scientist": "林奈 (C. Linnaeus)",
         "subject": "生物",
-        "title": "二名法",
-        "description": "建立生物分類系統，提出「二名法」來為生物命名（屬名+種小名），被稱為分類學之父。",
+        "title": "二界說與二名法",
+        "description": "建立「二界說」（植物界、動物界），並提出「二名法」為生物命名（屬名+種小名），被稱為分類學之父。",
         "tags": [
             "分類學",
             "演化",
@@ -359,7 +359,7 @@
         "scientist": "賴爾 (C. Lyell)",
         "subject": "生物",
         "title": "地質學原理",
-        "description": "主張「古今一致論」，認為形塑地球表面的地質作用在過去和現在是一樣的，這顯示地球歷史相當古老，影響了達爾文的演化時間觀。",
+        "description": "主張「古今一致論」，認為形塑地球表面的地質作用在過去和現在是一樣的，顯示地球歷史相當古老，影響達爾文的演化時間觀。",
         "tags": [
             "演化",
             "地質",
@@ -434,7 +434,7 @@
     {
         "id": "b13",
         "year": 1859,
-        "scientist": "查爾斯·達爾文 (C. Darwin)",
+        "scientist": "達爾文 (C. Darwin)",
         "subject": "生物",
         "title": "物種起源",
         "description": "出版《物種起源》，詳細闡述以「天擇」為核心的演化論，解釋生物多樣性與適應現象。",
@@ -458,7 +458,7 @@
         ]
     },
     {
-        "id": "b15",
+        "id": "b16",
         "year": 1879,
         "scientist": "佛萊明 (W. Flemming)",
         "subject": "生物",
@@ -471,12 +471,12 @@
         ]
     },
     {
-        "id": "b16",
+        "id": "b17",
         "year": 1883,
         "scientist": "魏斯曼 (A. Weismann)",
         "subject": "生物",
         "title": "種質說",
-        "description": "透過老鼠斷尾實驗否定拉馬克的獲得性遺傳，提出「種質說」，認為只有生殖細胞（種質）的變異才能遺傳給後代。",
+        "description": "透過老鼠斷尾實驗否定拉馬克的獲得性遺傳，提出「種質說」，認為只有生殖細胞（種質）的變異才能遺傳。",
         "tags": [
             "演化",
             "遺傳",
@@ -484,7 +484,7 @@
         ]
     },
     {
-        "id": "b17",
+        "id": "b18",
         "year": 1891,
         "scientist": "亨金 (H. Henking)",
         "subject": "生物",
@@ -497,7 +497,7 @@
         ]
     },
     {
-        "id": "b18",
+        "id": "b19",
         "year": 1902,
         "scientist": "薩頓 (W. Sutton) & 巴夫來 (T. Boveri)",
         "subject": "生物",
@@ -510,7 +510,7 @@
         ]
     },
     {
-        "id": "b19",
+        "id": "b20",
         "year": 1905,
         "scientist": "史蒂文斯 (N. Stevens)",
         "subject": "生物",
@@ -523,7 +523,7 @@
         ]
     },
     {
-        "id": "b20",
+        "id": "b21",
         "year": 1909,
         "scientist": "約翰森 (W. Johannsen)",
         "subject": "生物",
@@ -535,7 +535,7 @@
         ]
     },
     {
-        "id": "b21",
+        "id": "b22",
         "year": 1910,
         "scientist": "摩根 (T. H. Morgan)",
         "subject": "生物",
@@ -548,12 +548,12 @@
         ]
     },
     {
-        "id": "b22",
+        "id": "b24",
         "year": 1953,
         "scientist": "華生 (J. Watson) & 克里克 (F. Crick)",
         "subject": "生物",
         "title": "DNA雙螺旋結構",
-        "description": "根據富蘭克林的X光繞射圖譜等資料，建構出 DNA 的雙螺旋模型，揭示了遺傳物質的結構。",
+        "description": "建構出 DNA 的雙螺旋模型，揭示了遺傳物質的結構，開啟了分子生物學時代。",
         "tags": [
             "遺傳",
             "DNA",
@@ -562,24 +562,37 @@
         ]
     },
     {
-        "id": "b23",
+        "id": "b25",
+        "year": 1953,
+        "scientist": "凱特威爾 (H. B. D. Kettlewell)",
+        "subject": "生物",
+        "title": "工業黑化",
+        "description": "研究樺尺蛾（胡椒蛾）的體色變化，證實天擇（鳥類捕食）是導致蛾類黑化比例改變的主因。",
+        "tags": [
+            "演化",
+            "天擇",
+            "BCh03"
+        ]
+    },
+    {
+        "id": "b26",
         "year": 1969,
         "scientist": "懷塔克 (R. Whittaker)",
         "subject": "生物",
         "title": "五界說",
-        "description": "依據細胞構造及營養方式，將生物分為原核生物、原生生物、菌物、植物和動物五界。",
+        "description": "將真菌獨立出來成為「菌物界」(Fungi)，確立了五界系統（原核、原生、菌物、植物、動物）。",
         "tags": [
             "分類學",
             "BCh03"
         ]
     },
     {
-        "id": "b24",
+        "id": "b27",
         "year": 1977,
-        "scientist": "伍斯 (C. Woese)",
+        "scientist": "渥易斯 (C. Woese)",
         "subject": "生物",
-        "title": "三域說",
-        "description": "根據核糖體 RNA (rRNA) 的序列分析，發現古細菌與真細菌的巨大差異，提出細菌、古菌、真核生物三域系統。",
+        "title": "六界說與三域說",
+        "description": "利用 rRNA 分析，發現古細菌與真細菌差異極大，提出「三域說」(細菌、古菌、真核)，並將原核生物界拆分，形成六界系統。",
         "tags": [
             "分類學",
             "演化",
