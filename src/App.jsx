@@ -359,7 +359,7 @@ const ScienceTimeline = () => {
             </div>
 
             <footer className="bg-white border-t border-slate-200 text-slate-400 py-6 text-center text-sm">
-                <p>Made with ❤️ by <a href="https://github.com/ycy-0510" target="_blank" rel="noopener noreferrer">YCY</p>
+                <p>Made with ❤️ by <a href="https://github.com/ycy-0510" target="_blank" rel="noopener noreferrer">YCY</a></p>
                 <p>AI generated data may not be accurate, please double check. If you find any error, please report it to <a href="https://github.com/ycy-0510/sci-timeline/issues" target="_blank" rel="noopener noreferrer">GitHub</a></p>
             </footer>
         </div>
