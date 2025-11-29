@@ -112,9 +112,9 @@ const ScienceTimeline = () => {
     };
 
     return (
-        <div className="min-h-screen bg-slate-50 font-sans text-slate-800 flex flex-col">
+        <div className="h-screen bg-slate-50 font-sans text-slate-800 flex flex-col overflow-hidden">
             {/* Header */}
-            <header className="bg-white shadow-md sticky top-0 z-50">
+            <header className="bg-white shadow-md z-50 shrink-0">
                 <div className="max-w-7xl mx-auto px-4 py-3">
                     <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
                         <div className="flex items-center justify-between">
@@ -152,13 +152,13 @@ const ScienceTimeline = () => {
                 </div>
             </header>
 
-            <div className="flex-1 max-w-7xl mx-auto w-full flex relative">
+            <div className="flex-1 max-w-7xl mx-auto w-full flex relative overflow-hidden">
                 {/* Sidebar (Filters) */}
                 <aside className={`
                     fixed inset-y-0 left-0 z-40 w-72 bg-white border-r border-slate-200 transform transition-transform duration-300 ease-in-out
-                    md:relative md:translate-x-0 md:block md:w-80 md:h-auto md:z-0
+                    md:relative md:translate-x-0 md:block md:w-80 md:h-full md:z-0 md:overflow-y-auto
                     ${isSidebarOpen ? 'translate-x-0 shadow-2xl' : '-translate-x-full'}
-                    pt-20 md:pt-6 pb-6 px-4 overflow-y-auto
+                    pt-20 md:pt-6 pb-6 px-4
                 `}>
                     <div className="space-y-8">
                         {/* Mobile Close Button (Overlay context handled by z-index but button good for UX) */}
@@ -288,7 +288,7 @@ const ScienceTimeline = () => {
                 )}
 
                 {/* Main Content */}
-                <main className="flex-1 px-4 py-8 md:px-8 md:py-12 bg-slate-50 overflow-x-hidden">
+                <main className="flex-1 px-4 py-8 md:px-8 md:py-12 bg-slate-50 overflow-x-hidden overflow-y-auto h-full">
 
                     {filteredData.length === 0 ? (
                         <div className="text-center py-20 bg-white rounded-xl shadow-sm border border-dashed border-slate-300">
@@ -386,13 +386,12 @@ const ScienceTimeline = () => {
                             </div>
                         </div>
                     )}
+                    <footer className="bg-white border-t border-slate-200 text-slate-400 py-6 text-center text-sm mt-8">
+                        <p>Made with ❤️ by <a href="https://github.com/ycy-0510" target="_blank" rel="noopener noreferrer">YCY</a></p>
+                        <p>AI generated data may not be accurate, please double check. If you find any error, please report it to <a href="https://github.com/ycy-0510/sci-timeline/issues" target="_blank" rel="noopener noreferrer">GitHub</a></p>
+                    </footer>
                 </main>
             </div>
-
-            <footer className="bg-white border-t border-slate-200 text-slate-400 py-6 text-center text-sm">
-                <p>Made with ❤️ by <a href="https://github.com/ycy-0510" target="_blank" rel="noopener noreferrer">YCY</a></p>
-                <p>AI generated data may not be accurate, please double check. If you find any error, please report it to <a href="https://github.com/ycy-0510/sci-timeline/issues" target="_blank" rel="noopener noreferrer">GitHub</a></p>
-            </footer>
         </div>
     );
 };
